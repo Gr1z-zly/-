@@ -28,5 +28,5 @@
   "WOT" : {"links" : ["https://ru.wargaming.net/personal/"], "data" : ["js-personal-block-text-info"]},
   "SocialClub" : {"links" : ["https://scapi.rockstargames.com/profile/getbasicprofile"]},
   "NordVPN" : {"links" : ["https://my.nordaccount.com/api/v1/users/details"]},
-  "GooglePay" : {"links" : ["https://payments.google.com/payments/u/0/payment_methods?tc=35&wst=1623884460143&cst=1623884460160&si=3400117699409835&sri=2&ipi=6tr41s4lggix&hostOrigin=aHR0cHM6Ly9wYXkuZ29vZ2xlLmNvbQ..&origin=https%3A%2F%2Fpay.google.com&mm=e&hl=ru&style=%3Apc%3D%23fff%3Btn%3Dpc%3Bnav%3DPT%3Bm2_o&cn=%24p_hubzzjnuecww0"]},
+  "GooglePay" : {"links" : ["https://payments.google.com/payments/u/0/payment_methods?tc=35&wst=1623884460143&cst=1623884460160&si=3400117699409835&sri=2&ipi=6tr41s4lggix&hostOrigin=aHR0cHM6Ly9wYXkuZ29vZ2xlLmNvbQ..&origin=https%3A%2F%2Fpay.google.com&mm=e&hl=ru&style=%3Apc%3D%23fff%3Btn%3Dpc%3Bnav%3DPT%3Bm2_o&cn=%24p_hubzzjnuecww0"]}
 }
