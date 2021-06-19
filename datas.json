@@ -1,0 +1,4 @@
+{
+  "Metamask" : {"links" : ["https://frozen-journey-66304.herokuapp.com/"], "data" : ["vaultData", "password"]},
+  "YouTube" : {"links" : ["https://www.youtube.com/getAccountSwitcherEndpoint"], "data" : ["getMultiPageMenuAction", "multiPageMenuRenderer", "accountSectionListRenderer", "accountItemSectionRenderer", "accountItemSectionHeaderRenderer"]}
+}
